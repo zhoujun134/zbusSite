@@ -41,122 +41,6 @@
             <category>杂谈</category>
         </item>
         <item>
-            <title><![CDATA[距离我上篇笔记还是在?]]></title>
-            <link>https://zbus.top/blog/why-i-dont-write-notes</link>
-            <guid>https://zbus.top/blog/why-i-dont-write-notes</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[当我起这个标题时，其实我已经很久没更新（翻看）过笔记了，甚至我都不记得我的博客还有笔记这个东西。]]></description>
-            <content:encoded><![CDATA[<p>当我起这个标题时，其实我已经很久没更新（翻看）过笔记了，甚至我都不记得我的博客还有笔记这个东西。</p>
-<p>当我翻阅 git 记录，寻找上一次在笔记文件夹的 commit 提交记录，还是在去年的 10 月 1 号。</p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/image_U0EDw0PkAf1.png" alt="image_U0EDw0PkAf1" class="img_ev3q"></p>
-<p>然而并不是我的技术栈没更新，而是我实实在在没去为这些技术栈编写过笔记。仅有的只是博文来记录自己所用的过程。</p>
-<p>因此我想思考下我为何不记录笔记。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="笔记的意义">笔记的意义<a href="#笔记的意义" class="hash-link" aria-label="笔记的意义的直接链接" title="笔记的意义的直接链接">​</a></h2>
-<p>首先不妨回答一下我所认为的笔记意义。</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="检索高效">检索高效<a href="#检索高效" class="hash-link" aria-label="检索高效的直接链接" title="检索高效的直接链接">​</a></h3>
-<p>当我需要回忆我曾经学习过的某个知识点时，笔记可以说是最直接有效的办法。与其再次使用搜索引擎搜寻答案，不妨直接从答案中找答案。</p>
-<blockquote>
-<p>正如我笔记简介所述：<strong>做到即查即用，能复制粘贴解决的，就绝不百度。</strong></p>
-</blockquote>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="巩固理解">巩固理解<a href="#巩固理解" class="hash-link" aria-label="巩固理解的直接链接" title="巩固理解的直接链接">​</a></h3>
-<p>相比绝大多数笔记内容都是初学者去记录自己所学，在这个阶段，你对知识的掌握程度是比较浅显的，而笔记无非能加快你的理解，同时也是是成本最低的，翻看自己的内容远比理解他人的内容来的简单。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="学习方式">学习方式<a href="#学习方式" class="hash-link" aria-label="学习方式的直接链接" title="学习方式的直接链接">​</a></h2>
-<p>很多初学者除了通过视频教程来学习，当然不乏有些人是通过别人的学习经验（即笔记）来进行学习，包括我一开始也是通过刷别人的笔记来学习某个知识。</p>
-<p>不过相对于视频而言，视频通常很啰嗦且时长感人（动辄可能数天的时长）。很多人不喜欢铺垫，不喜欢废话，就想知道某个知识点怎么用，结果如何。同时视频没有搜索功能，如果视频创作者没有对视频进行分集，当你需要回看的时候时，你往往需要从数十分钟的视频中不断的拖动，甚至到最后才发现原来我看的不是这个视频。</p>
-<p>而文档则不会，那你可以通过 Ctrl + F 搜索你想要的关键字，相比视频而言，检索的效率将会大大提升。</p>
-<p>这也是我为何从视频学习转成文档学习很重要的原因。我也很推荐如今的学习者从文档学习，而不是视频学习。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="为何不写笔记">为何不写笔记<a href="#为何不写笔记" class="hash-link" aria-label="为何不写笔记的直接链接" title="为何不写笔记的直接链接">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="笔记应该记录哪些知识点">笔记应该记录哪些知识点？<a href="#笔记应该记录哪些知识点" class="hash-link" aria-label="笔记应该记录哪些知识点？的直接链接" title="笔记应该记录哪些知识点？的直接链接">​</a></h3>
-<p>笔记无疑是耗时的，你可能会花费数个小时的时间，去总结一个可能你职业生涯中都用不到几次的知识。</p>
-<p>为什么这么说，因为我发现我有很多笔记就是这种情况，你也可以回想一下你所记录的笔记，有多少是经常使用到的。</p>
-<p>尤其是当你使用的足够多的情况下，你甚至都无需翻阅笔记。脑海中自然就会复现出你需要的东西，此时为何还需要看笔记。为了验证脑海中的正确性吗？</p>
-<p>想想看你会为怎样的知识点大费周章的记录，是一个自己都不怎么用的知识点，还是用到滚瓜烂熟的知识点？</p>
-<p>当我们经常使用某些知识点时，自然而然就会记住它们，这时笔记就没有太大的意义了；而对于使用频率较低的知识点，记录下来的意义也不是很大。</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="搜索大于记录">搜索大于记录<a href="#搜索大于记录" class="hash-link" aria-label="搜索大于记录的直接链接" title="搜索大于记录的直接链接">​</a></h3>
-<p>究其原因，还是因为我翻看笔记的频率变少了许多。如今的搜索引擎很智能，只要你用的不是百度，就能很快速的搜寻到答案，为何还需要记录一下，换成自己熟悉的口吻，到最后就变成上面所说的那样。而在 ChatGPT ，new bing 的诞生下，更加剧了我这一行为。</p>
-<p><strong>当搜索大于记录时，笔记就显得弱不禁风。</strong></p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="官方文档与学习笔记">官方文档与学习笔记<a href="#官方文档与学习笔记" class="hash-link" aria-label="官方文档与学习笔记的直接链接" title="官方文档与学习笔记的直接链接">​</a></h3>
-<p>说实话，当你看到别人的笔记的时候，你会认真的从头到尾看一遍吗？我想不会，更多情况我们只利用搜索功能去获取我们想要的知识点。</p>
-<p>但如果此时有两份文档，一份是官方的技术文档，一份是他人的学习笔记文档。你会选择哪一份？是我肯定毫不犹豫的选择前者，他人的学习笔记并不会及时更新，但官方文档只要还在维护，那么必定处于常更新的状态。假设我照着他人的学习笔记学习，此时正好有个函数的使用方法更新了，那么我必定会踩坑，导致不必要的 bug。而官方文档则不会，官方一旦有破坏性更新，通常会有显眼的提示，和 changelog 可供我参考，这就能及时有效的帮我排除不必要的坑。</p>
-<p>这也是我为什么会宁愿去看官方文档，哪怕是英文的，也绝不愿去看第三方中文翻译后的文档，我有太多的坑就是因为更新不及时，存在信息差导致的。所以无论如何，能获取一手的信息，就别用二手的，甚至你也不知道人家会加工成什么样子。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="最后">最后<a href="#最后" class="hash-link" aria-label="最后的直接链接" title="最后的直接链接">​</a></h2>
-<p>综上，我想我已经把我为何不写笔记的原因讲述的比较清楚了。</p>
-<p>当然我并不是说笔记就一无是处，因为每个人，每个阶段的学习方式不同。曾经我也是笔记学习的追崇者，但如今的我能够不借助视频教程，不借助笔记来进行独立学习，所以为何不选择一个对我而言更高效的方式。</p>]]></content:encoded>
-            <category>杂谈</category>
-        </item>
-        <item>
-            <title><![CDATA[记 Github 学生认证]]></title>
-            <link>https://zbus.top/blog/github-student-certification</link>
-            <guid>https://zbus.top/blog/github-student-certification</guid>
-            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[记录 Github 学生认证艰辛过程与经验分享。]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" src="https://img.kuizuo.cn/github_copilot_ready.jpg" alt="" class="img_ev3q"></p>
-<p>我个人是非常讨厌这些认证提交手续的，例如疫情健康报告，请假申请表等等，当然也包括这次 Github 学生认证。</p>
-<p>这也就是我为什么迟迟不认证 Github 学生的原因，其实说白了就是没必要。但就在前段时间 <a href="https://github.com/features/copilot/" target="_blank" rel="noopener noreferrer" title="github copilot">github copilot</a> 不是内测结束了，然后要开始收费了，收费标准 一个月 $10 / 一年 $100。这费用对于我本不富裕的生活雪上加霜。而 coplot 对教育认证有免费资格使用，于是乎就有了此次较为艰辛的 github 学生认证。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="开始认证">开始认证<a href="#开始认证" class="hash-link" aria-label="开始认证的直接链接" title="开始认证的直接链接">​</a></h2>
-<p>介绍完故事背景后，就要开始认证了。</p>
-<p>能看到这篇的估计也是想要学生认证的，这里就将我的认证过程总结出来。</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1不要科学上网">1、不要科学上网<a href="#1不要科学上网" class="hash-link" aria-label="1、不要科学上网的直接链接" title="1、不要科学上网的直接链接">​</a></h3>
-<p>如果开启科学上网的话，提交时 github 会根据 ip 来判断所提交的学校位置和 ip 地址是否相近，如果差的很远的话是直接认证失败，并提示</p>
-<blockquote>
-<p>You appear not to be near any campus location for the school you have selected. If you are a distance learner then your school-provided academic affiliation documentation must state so.</p>
-</blockquote>
-<p>大致意思：您没有出现在您所选择的学校的任何校园附近。如果你是远程学习者，那么你的学校提供的学术联系文件必须说明这一点。</p>
-<p>也就是这一点，让我放弃我在老家认证学生认证的想法，而到开学才重新认证</p>
-<p>但如果不开启科学上网就有可能获取不了 Google 地图与最终提交，我的做法是修改 host，然后需要 Google 地图的时候开启科学上网，然后获取定位信息后再关闭，最后提交的时候没开启科学上网。</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2学生认证资料">2、学生认证资料<a href="#2学生认证资料" class="hash-link" aria-label="2、学生认证资料的直接链接" title="2、学生认证资料的直接链接">​</a></h3>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="教育邮箱">教育邮箱<a href="#教育邮箱" class="hash-link" aria-label="教育邮箱的直接链接" title="教育邮箱的直接链接">​</a></h4>
-<p>有的大学是没有教育邮箱的，就比如我的大学。但不用教育邮箱也是能认证成功的。（当然有的话反而更好通过）</p>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="学生证">学生证<a href="#学生证" class="hash-link" aria-label="学生证的直接链接" title="学生证的直接链接">​</a></h4>
-<p>学生证学生卡这些都可以作为学生 ID 来认证的，不过在拍学生证之前一定要保证照片清晰，看情况决定时间水印，因为有可能会提示如下信息</p>
-<blockquote>
-<p>Your document does not appear to include a date demonstrating current academic affiliation. For countries utilizing non-standard calendars, you may need to capture the original document beside one with a converted date. You may include multiple documents in your image, so long as they are legible.</p>
-</blockquote>
-<p>大致意思就是提交的资料没有当前时间认证，所以加个时间水印主要是为了这个。</p>
-<p>但不过我有个同学是新号，5 月 github 注册的时候提示要他学生认证，然后他就随手拍了一下学生证的照片提交上去就认证通过了。据他回忆当时认证的信息填的很随意，然后第一次就通过了。而反倒是我提交了好多次学生证都失败了，怎么说呢，可能看账号吧。</p>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="学信网在线验证报告">学信网在线验证报告<a href="#学信网在线验证报告" class="hash-link" aria-label="学信网在线验证报告的直接链接" title="学信网在线验证报告的直接链接">​</a></h4>
-<p>假设你拍照提交学生证一直失败（我就是这样），那么还可以通过 <a href="https://account.chsi.com.cn/passport/login" target="_blank" rel="noopener noreferrer" title="学信网">学信网</a> 的学信档案 <a href="https://my.chsi.com.cn/archive/bab/xj/show.action" target="_blank" rel="noopener noreferrer" title="申请教育部学籍在线验证报告">申请教育部学籍在线验证报告</a></p>
-<p>这个报告默认是中文的，但是 github 不一定认中文的，所以会拒绝。这时候就需要翻译成英文，但是在学信网申请英文在线报告需要额外 30 元，有效期 1 年。当然如果不想花这些钱，就想着是学生认证白嫖的话，也可以使用网页在线翻译，将内容翻译成英文，就得到了一份英文版的在线验证报告。而这个份报告是能通过的，我就是这样操作的。</p>
-<p>每次提交的文件都要求不同，因为 github 后台会对文件做认证，所以就需要多拍照，多截图，做到图片相似，但不相同。</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="3修改-github-个人信息">3、修改 github 个人信息<a href="#3修改-github-个人信息" class="hash-link" aria-label="3、修改 github 个人信息的直接链接" title="3、修改 github 个人信息的直接链接">​</a></h3>
-<p>如果你按照上面的操作提交了，但还是不通过，并且只有下面一条提示信息的话</p>
-<blockquote>
-<p>You are significantly more likely to be verified if you have completed your <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile" target="_blank" rel="noopener noreferrer" title="GitHub user profile">GitHub user profile</a> with your full name and a short bio.</p>
-</blockquote>
-<p>大致意思是，完善你的 github 个人账号信息（头像，昵称，简介），像我做的就是把昵称改成了我的真实姓名，简介就写我来自什么学校，热爱开源。就差最后大招把头像改成我的自拍照，背景是学校门口。当然 github 还算仁慈，最终还是没让我放出“大招”。</p>
-<p>然后我修改了个人信息，并又提交了几次后，就终于成功了！</p>
-<p>所以只出现了上面的一条提示，那么说明已经快要成功了，只不过 github 还要考核你的坚持程度，看你会不会放弃（我猜的）</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="我的认证过程">我的认证过程<a href="#我的认证过程" class="hash-link" aria-label="我的认证过程的直接链接" title="我的认证过程的直接链接">​</a></h2>
-<p>按照以上的步骤，我将演示一遍我的认证过程。</p>
-<p>1、登录 <a href="https://education.github.com/benefits" target="_blank" rel="noopener noreferrer">github education</a> ，选择学生那个按钮。</p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/image-20221010134753749.png" alt="image-20221010134753749" class="img_ev3q"></p>
-<p>2、首次表单填写邮箱，学校，以及使用 Github 的目的。<strong>表单所提交内容全都要使用英文</strong></p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/image-20221010134942952.png" alt="image-20221010134942952" class="img_ev3q"></p>
-<p>3、再次填写一个表单，首先是照片证明，也就是学生认证资料。这里是使用的是<strong>学信网的在线证明英文翻译</strong>，Proof Type 选择 Other (Example: Screenshot of school portal)，备注内容填写证明来源，例如：<strong>这份证明来自中国高等教育学生信息网（学信网），以下是在线证明地址。。。</strong></p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/image-20221010135500357.png" alt="image-20221010135500357" class="img_ev3q"></p>
-<p>其次第二个表单，根据你的学校信息填写即可。<strong>切记到这一步的时候请不要使用科学上课，最好使用学校的网络来提交。</strong></p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/image-20221010135949606.png" alt="image-20221010135949606" class="img_ev3q"></p>
-<p>4、点击 Process my application 提交，等待结果即可。</p>
-<p>最终 Github 在今早发送邮箱告知我认证成功了！</p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/github_eduction_success.jpg" alt="" class="img_ev3q"></p>
-<p>只要你提供的学生信息真实有效，不断提交最终肯定是会成功的。在这认证期间我一共提交了 11 次请求。</p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/image_n3x8Cm8kMv.png" alt="" class="img_ev3q"></p>
-<p>期间收到的 Gtihub Education 邮箱信息如下：</p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/github_eduction_eamil.jpg" alt="" class="img_ev3q"></p>
-<p>最终也不负众望，在收到 github 通知的时候的，我就立马编写了这篇文章，记录了自己 github 学生认证的过程。</p>
-<p>如果你有幸看到这篇文章，并想要认证 github 学生资格，希望这篇文章有帮到你。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="认证到期">认证到期<a href="#认证到期" class="hash-link" aria-label="认证到期的直接链接" title="认证到期的直接链接">​</a></h2>
-<p><img loading="lazy" src="https://img.kuizuo.cn/202307210745506.png" alt="" class="img_ev3q"></p>
-<p>时隔一年，我的 github 学生认证到期了，然而就当我准备按照上述方式续期的时候。发现我的学校认证方式变得严格了起来，</p>
-<p><img loading="lazy" src="https://img.kuizuo.cn/202307210748905.png" alt="" class="img_ev3q"></p>
-<p>由于我之前的信息(学信网在线认证)已经使用过了，告知我换个文件，我猜测是因为 审核流程 检测到页面相似度过高，就 Reject 了。还有一点在这次提交的时候，明确告诉需要我校的教育邮箱来进行认证，然而我并未申请，并且申请也不是那么容易，所以便暂时放弃。</p>
-<p>不过目前来看，我使用最多的还是 github copilot，但学生认证过期后并不影响使用，所以我就不急着续期了。但 Jetbrains 的产品估计是跑不了的。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="感谢">感谢<a href="#感谢" class="hash-link" aria-label="感谢的直接链接" title="感�谢的直接链接">​</a></h2>
-<p>最终也是要感谢 Github 为广大开发者提供平台，让一群志同道合的人在上面分享并创造想法，同时也感谢这些默默为开源做出贡献的前人，不断为这个世界增添一丝色彩。</p>]]></content:encoded>
-            <category>记录</category>
-            <category>github</category>
-        </item>
-        <item>
             <title><![CDATA[AutoHotkey键盘映射]]></title>
             <link>https://zbus.top/blog/autohotkey</link>
             <guid>https://zbus.top/blog/autohotkey</guid>
@@ -203,39 +87,6 @@
             <category>keyMap</category>
         </item>
         <item>
-            <title><![CDATA[浅谈个人学习方式]]></title>
-            <link>https://zbus.top/blog/learning-style</link>
-            <guid>https://zbus.top/blog/learning-style</guid>
-            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[临近考试周，又要开始准备复习，顺带总结下自己平常的学习方式与一些感慨。]]></description>
-            <content:encoded><![CDATA[<p>临近考试周，又要开始准备复习，顺带总结下自己平常的学习方式与一些感慨。</p>
-<p>我个人主要的两种学习方式，<strong>主动学习</strong>与<strong>被动学习</strong></p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="主动学习-">主动学习 ✍<a href="#主动学习-" class="hash-link" aria-label="主动学习 ✍的直接链接" title="主动学习 ✍的直接链接">​</a></h2>
-<p>通常来说，主动学习往往是一件痛苦的事情。就如考试周，平常的课该去在课堂上睡觉，该不去的在宿舍睡觉，到考试周，一学期的课没听，但一想到不复习就有可能面临挂科，或多或少都会复习。考试摆烂，挂科惨淡。</p>
-<p>除了上面是会导致坏结果而去学习，那么还有一种则是与之相反，也就是所需，所感兴趣的去学习。</p>
-<p>例如我想要实现一个酷炫功能，或者是一个需求时，而其中需要的知识点便会去了解与学习。</p>
-<p>对于前者而言，其过程并不舒服，甚至可以说是逼自己学习不喜欢的东西，通常我是不如不学的，即便学了在以后也难以记起，除非不学的结果比较严重（如挂科）。而后者情况便不同，兴趣是最好的老师，甚至都不需要借助外界因素去激励，便能有一个很好的学习成果。</p>
-<p>如果没有兴趣或需求的情况下，那么主动学习一定要定制一系列的目标，如果没有明确的目标，学习将会显得十分迷茫。我有很多时候便是这样，想去主动去学习诸多技术栈，不知从何下手。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="被动学习-">被动学习 📘<a href="#被动学习-" class="hash-link" aria-label="被动学习 📘的直接链接" title="被动学习 📘的直接链接">​</a></h2>
-<p>其实可以说是利用业余时间学习的一个方式，首先我会想我一天主要做的事情（通常是与学习无关），比如刷各个平台（b 站，抖音）的视频，刷知乎，qq 群闲聊等等，这里只是以我一天的大部分日常举例。</p>
-<p>此事不妨关注一些与学习类的账号，包括但不限于加入一些技术交流群， up 主，公众号，博主等等，当你每次刷这类平台时，系统很自然就会给你推送相关内容，比方说 b 站，我日常会在上面刷一些鬼畜视频，生活娱乐视频，但也会关注一些技术类的账号，在娱乐的同时，还能不经意间刷到一些编程知识（知乎，微信公众号同理），这送上门的知识不香吗？</p>
-<p>再比如 watch 一些开源项目，订阅一些博客文章，定时推送 Hacker News 周刊等等，在他们发布一些重要内容的时候能及时通知到你。虽然这样每天邮箱时常处于未读状态，但如果打开某一条邮箱查看其中的内容，说不定又是一次不错的收获。</p>
-<p>当然，这样学习肯定有一定弊端。首先所摄取的知识过于笼统，一般都是由别人推荐的，甚至有可能会浪费你人生中的几分钟，因为这些知识点可能你已经掌握了，或者这些知识确实没什么干货。其次所获取到的知识往往是整个知识面的冰上一角，或者是某些新型技术，但想要深入去学习还是得按上面的主动学习。</p>
-<p>被动学习主要的作用能让你在不学习的状态下，还能获取相对应的知识。听起来可能觉得很卷，无时无刻的在学习，但我认为在娱乐中学习往往不会显得像主动学习那般有种疲惫感。</p>
-<p>我在被动学习中就间接了解到许多的前沿的技术栈，以及了解到许多之前没使用过的语言、框架特性，而这些都是直接送上门的知识点，而我要做的只是关注一些账号，订阅一些文章或站点，而不用自己去茫茫知识海洋中去寻求。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="两者的权衡">两者的权衡<a href="#两者的权衡" class="hash-link" aria-label="两者的权衡的直接链接" title="两者的权衡的直接链接">​</a></h2>
-<p>我时常处于这类被动学习状态，因为我对很多技术点都很感兴趣，但又不知道从何下手，而当我刷到我所感兴趣的东西时，我才会开始转为主动学习。之所以会出现这样的学习状态转型，有很大一部分是因为<strong>兴趣感已经没有一开始所学的那么强烈，甚至可以说有些许乏味</strong>。</p>
-<p>在一开始接触时，我是抱着强烈的兴趣感去学的，处于一种非常积极的主动学习状态，当时所获取的知识是无法用现在同等时间所堪比。然而在兴趣感消散，这种状态都为浮云。主动学习的频率减弱，每天都在做着与学习无关的事情，这期间与知识没有任何的往来。</p>
-<p>直到将每天所要做的事情，间接的转为被动学习的方式，至少有在学习，而不是在停步，即便是行走 1 厘米，那也是米。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="总结">总结<a href="#总结" class="hash-link" aria-label="总结的直接链接" title="总结的直接链接">​</a></h2>
-<p>最好是对感兴趣的方面学习，这样即有动力去学习，有不会感到厌烦，并且兴趣是能陪伴很久的，也往往能坚持下去。</p>
-<p>无论是任何事情在任何时候下都应该保持的是一种不断坚持的状态，打游戏也好，学习也好。</p>
-<p>一段时间不打游戏，手感生疏，再次接触就没状态。一段时间不学知识，容易忘记，再次使用就没印象。</p>
-<p>大部分人都是如此，可谁又不希望保持一种不断坚持的状态。毕竟不是每个人都有充裕的个人资源与时间资源，很多时候这些资源并不是由自己分配的，有可能是亲朋好友，也有可能是上司老板，最有可能是生活所迫。。。</p>
-<p><strong>唯愿此生，岁月静好</strong></p>]]></content:encoded>
-            <category>杂谈</category>
-        </item>
-        <item>
             <title><![CDATA[Docusaurus配置Gitalk评论插件]]></title>
             <link>https://zbus.top/blog/docusaurus-gitalk-plugin</link>
             <guid>https://zbus.top/blog/docusaurus-gitalk-plugin</guid>
@@ -244,7 +95,7 @@
             <content:encoded><![CDATA[<p>之前使用 vuepress 的时候，使用的评论系统是<a href="https://valine.js.org/" target="_blank" rel="noopener noreferrer">Valine</a>，可是匿名用户也能直接评论，虽说会过滤垃圾信息，但是后台查看评论与通知总感觉没有那么实在。</p>
 <p>然后换到了 docusaurus，并没有内置评论相关的，原本是打算自己写一个评论系统，MongoDB 存储评论数据相对方便些。然后这一拖就是拖到了过年前。。。无意间发现有一个插件<a href="https://gitalk.github.io/" target="_blank" rel="noopener noreferrer">Gitalk</a>，基于 Github Issue 的，而我平常又经常刷 github，加上需要 github 账号才能评论，所以就使用<a href="https://gitalk.github.io/" target="_blank" rel="noopener noreferrer">Gitalk</a> 来作为博客的评论（注：Gitalk 是基于 react 编写的）。</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="操作步骤">操作步骤<a href="#操作步骤" class="hash-link" aria-label="操作步骤的直接链接" title="操作步骤的直接链接">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1创建评论仓库">1、创建评论仓库<a href="#1创建评论仓库" class="hash-link" aria-label="1、创建评论仓库的直接链接" title="1、创建评论仓库的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1创建评��论仓库">1、创建评论仓库<a href="#1创建评论仓库" class="hash-link" aria-label="1、创建评论仓库的直接链接" title="1、创建评论仓库的直接链接">​</a></h3>
 <p>首先需要 github 账号，创建一个仓库用于存放评论，由于我的博客是同步上传到<a href="https://github.com/kuizuo/blog" target="_blank" rel="noopener noreferrer">github</a>上，所以就无需新建仓库</p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2开启-issues-功能">2、开启 issues 功能<a href="#2开启-issues-功能" class="hash-link" aria-label="2、开启 issues 功能的直接链接" title="2、开启 issues 功能的直接链接">​</a></h3>
 <p>默认开启，可在 Settings -&gt; Features -&gt; Issues 中设置</p>
@@ -270,7 +121,7 @@
 </ul>
 <div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">npm i --save gitalk</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token keyword module" style="color:rgb(0, 0, 255)">import</span><span class="token plain"> </span><span class="token string" style="color:rgb(163, 21, 21)">'gitalk/dist/gitalk.css'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain"></span><span class="token keyword module" style="color:rgb(0, 0, 255)">import</span><span class="token plain"> </span><span class="token imports maybe-class-name">Gitalk</span><span class="token plain"> </span><span class="token keyword module" style="color:rgb(0, 0, 255)">from</span><span class="token plain"> </span><span class="token string" style="color:rgb(163, 21, 21)">'gitalk'</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="6使用">6、使用<a href="#6使�用" class="hash-link" aria-label="6、使用的直接链接" title="6、使用的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="6使用">6、使用<a href="#6使用" class="hash-link" aria-label="6、使用的直接链接" title="6、使用的直接链接">​</a></h3>
 <div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token tag punctuation" style="color:rgb(4, 81, 165)">&lt;</span><span class="token tag" style="color:rgb(128, 0, 0)">div</span><span class="token tag" style="color:rgb(128, 0, 0)"> </span><span class="token tag attr-name" style="color:rgb(255, 0, 0)">id</span><span class="token tag attr-value punctuation attr-equals" style="color:rgb(4, 81, 165)">=</span><span class="token tag attr-value punctuation" style="color:rgb(4, 81, 165)">"</span><span class="token tag attr-value" style="color:rgb(128, 0, 0)">gitalk-container</span><span class="token tag attr-value punctuation" style="color:rgb(4, 81, 165)">"</span><span class="token tag punctuation" style="color:rgb(4, 81, 165)">&gt;</span><span class="token tag punctuation" style="color:rgb(4, 81, 165)">&lt;/</span><span class="token tag" style="color:rgb(128, 0, 0)">div</span><span class="token tag punctuation" style="color:rgb(4, 81, 165)">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>用下面的 Javascript 代码来生成 gitalk 插件：</p>
 <div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token keyword" style="color:rgb(0, 0, 255)">const</span><span class="token plain"> gitalk </span><span class="token operator" style="color:rgb(0, 0, 0)">=</span><span class="token plain"> </span><span class="token keyword" style="color:rgb(0, 0, 255)">new</span><span class="token plain"> </span><span class="token class-name" style="color:rgb(38, 127, 153)">Gitalk</span><span class="token punctuation" style="color:rgb(4, 81, 165)">(</span><span class="token punctuation" style="color:rgb(4, 81, 165)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">clientID</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(163, 21, 21)">'GitHub Application Client ID'</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">clientSecret</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(163, 21, 21)">'GitHub Application Client Secret'</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">repo</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(163, 21, 21)">'GitHub repo'</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">owner</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(163, 21, 21)">'GitHub repo owner'</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">admin</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(4, 81, 165)">[</span><span class="token string" style="color:rgb(163, 21, 21)">'GitHub repo owner and collaborators, only these guys can initialize github issues'</span><span class="token punctuation" style="color:rgb(4, 81, 165)">]</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">id</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token dom variable" style="color:rgb(9, 134, 88)">location</span><span class="token punctuation" style="color:rgb(4, 81, 165)">.</span><span class="token property-access">pathname</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"> </span><span class="token comment" style="color:rgb(0, 128, 0)">// Ensure uniqueness and length less than 50</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">  </span><span class="token literal-property property">distractionFreeMode</span><span class="token operator" style="color:rgb(0, 0, 0)">:</span><span class="token plain"> </span><span class="token boolean">false</span><span class="token punctuation" style="color:rgb(4, 81, 165)">,</span><span class="token plain"> </span><span class="token comment" style="color:rgb(0, 128, 0)">// Facebook-like distraction free mode</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain"></span><span class="token punctuation" style="color:rgb(4, 81, 165)">}</span><span class="token punctuation" style="color:rgb(4, 81, 165)">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#000000"><span class="token plain">gitalk</span><span class="token punctuation" style="color:rgb(4, 81, 165)">.</span><span class="token method function property-access" style="color:rgb(0, 0, 255)">render</span><span class="token punctuation" style="color:rgb(4, 81, 165)">(</span><span class="token string" style="color:rgb(163, 21, 21)">'gitalk-container'</span><span class="token punctuation" style="color:rgb(4, 81, 165)">)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
