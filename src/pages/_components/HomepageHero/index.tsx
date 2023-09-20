@@ -117,6 +117,7 @@ function Logos() {
   )
 }
 
+// @ts-ignore
 function Background() {
   return (
     <>
