@@ -1,4 +1,5 @@
 export const projects: Project[] = [
+    // web 相关
   {
     title: '周君的小站',
     description: '🦖 基于 Docusaurus 静态网站生成器实现个人博客',
@@ -8,6 +9,7 @@ export const projects: Project[] = [
     tags: ['opensource', 'design', 'favorite'],
     type: 'web',
   },
+  //   java 类的工具类
   {
     title: 'zjCommon java 工具库',
     description: '个人开发的一些常用 java 工具库组件，包括 spring 的异常处理, REST 统一返回数据，json 序列化，验证工具等',
