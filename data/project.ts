@@ -1,18 +1,18 @@
 export const projects: Project[] = [
   {
-    title: '愧怍的小站',
+    title: '周君的小站',
     description: '🦖 基于 Docusaurus 静态网站生成器实现个人博客',
     preview: '/img/project/blog.png',
-    website: 'https://kuizuo.cn',
-    source: 'https://github.com/kuizuo/blog',
+    website: 'https://zbus.top',
+    source: 'https://github.com/zhoujun134/zbusSite',
     tags: ['opensource', 'design', 'favorite'],
     type: 'web',
   },
   {
     title: 'zjCommon java 工具库',
     description: '个人开发的一些常用 java 工具库组件，包括 spring 的异常处理, REST 统一返回数据，json 序列化，验证工具等',
-    preview: '/img/project/blog.png',
-    website: 'https://zbus.top/docs/',
+    preview: '/img/project/tools.png',
+    website: 'https://zbus.top/docs/open/zj-common',
     source: 'https://github.com/zhoujun134/commom',
     tags: ['opensource', 'design', 'favorite'],
     type: 'java',
