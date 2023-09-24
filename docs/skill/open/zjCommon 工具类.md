@@ -1,6 +1,6 @@
 ---
 id: zj-common
-slug: /zj-common
+slug: /open/zj-common
 title: zj Common 通用异常处理工具类
 date: 2023-09-23
 author: zhouJun134
