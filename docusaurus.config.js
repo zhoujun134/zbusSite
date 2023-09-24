@@ -52,9 +52,9 @@ const config = {
           to: 'blog',
         },
         {
-          label: '项目',
+          label: '笔记',
           position: 'right',
-          to: 'project',
+          to: 'docs/skill/',
         },
         {
           label: '更多',
@@ -65,8 +65,8 @@ const config = {
               to: 'blog/archive',
             },
             {
-              label: '笔记',
-              to: 'docs/skill/',
+              label: '项目',
+              to: 'project',
             },
             {
               label: '资源',

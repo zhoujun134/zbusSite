@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3649],{3098:function(e){e.exports=JSON.parse('{"title":"Go","slug":"/category/go","permalink":"/docs/category/go","navigation":{"previous":{"title":"java\u53cd\u5c04","permalink":"/docs/skill/java/java-reflect"},"next":{"title":"Go\u8bed\u8a00\u4e4bjson\u4f7f\u7528","permalink":"/docs/go-json-usage"}}}')}}]);
