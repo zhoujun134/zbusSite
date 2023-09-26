@@ -8,7 +8,7 @@ keywords: [java, 基础知识, 常见基础]
 ---
 
 <!-- truncate -->
-
+![背景](https://img.zbus.top//zbus/blog/202309250855228.webp)
 ## 1. 注意 equals 和 == 的区别
 
 **比较值的内容，除了基本类型只能使用 == 外，其他类型都需要使用 equals。**

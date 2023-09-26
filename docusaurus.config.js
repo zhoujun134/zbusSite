@@ -110,10 +110,6 @@ const config = {
               label: '实战项目',
               to: 'project',
             },
-            {
-              label: '前端示例',
-              to: 'https://www.baidu.com',
-            },
           ],
         },
         {
@@ -204,7 +200,7 @@ const config = {
       github: 'https://github.com/zhoujun134',
       csdn: 'https://blog.csdn.net/zhou_jun',
       qq: 'https://wpa.qq.com/msgrd?v=3&amp;uin=1161386101&amp;site=qq',
-      // zhihu: 'https://www.zhihu.com/people/kuizuo',
+      zhihu: 'https://www.zhihu.com/people/zhou-jun-59-68',
       // cloudmusic: 'https://music.163.com/#/user/home?id=1333010742',
       mail: 'mailto:1161386101@qq.cn',
     },
@@ -253,7 +249,7 @@ const config = {
       {
         path: 'blog',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/zhoujun134/blog/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/zhoujun134/zbusSite/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogDescription: '周君的博客',
         blogSidebarCount: 10,
