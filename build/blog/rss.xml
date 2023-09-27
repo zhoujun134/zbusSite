@@ -4,11 +4,23 @@
         <title>快跑小火车</title>
         <link>https://zbus.top/blog</link>
         <description>周君的小站 Blog</description>
-        <lastBuildDate>Sun, 03 Sep 2023 22:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 22:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>Copyright © 2023 快跑小火车 Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;京ICP备2023022073号-1&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[不确定性的互联网环境]]></title>
+            <link>https://zbus.top/blog/uncertain-internet-environment</link>
+            <guid>https://zbus.top/blog/uncertain-internet-environment</guid>
+            <pubDate>Wed, 27 Sep 2023 22:31:31 GMT</pubDate>
+            <description><![CDATA[作为一名初入职场的新人，说实话，很焦虑，有时候不知道自己的目标和现在的工作有着怎样的鸿沟，AI 时代的到来，互联网环境趋于饱和和稳定，如何更好的生存下去，常常是困扰我的一些问题。]]></description>
+            <content:encoded><![CDATA[<p>作为一名初入职场的新人，说实话，很焦虑，有时候不知道自己的目标和现在的工作有着怎样的鸿沟，AI 时代的到来，互联网环境趋于饱和和稳定，如何更好的生存下去，常常是困扰我的一些问题。</p>
+<p><img loading="lazy" src="https://img.zbus.top//zbus/blog/202309270805206.webp" alt="" class="img_ev3q">
+前段时间听说，最近互联网又有不好的消息传来，公司可能又在优化组织结构，部分同学可能比较危险。</p>
+<p>听到这个消息还真是不知如何去表达自己内心的想法，我想说的，大环境的不景气，有时候真的不是我们能够所左右的，能做的更多应该是积极主动的将自己的现有工作做好，有深入，有思考的去做一些东西。</p>]]></content:encoded>
+            <category>杂谈</category>
+        </item>
         <item>
             <title><![CDATA[zbus.top 站点出生啦]]></title>
             <link>https://zbus.top/blog/zbus-start</link>
@@ -23,7 +35,7 @@
 <li>nginx 服务器配置</li>
 <li>docsearch 搜索服务的使用</li>
 </ol>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1-npm-的相关配置记录">1. npm 的相关配置记录<a href="#1-npm-的相关配置记录" class="hash-link" aria-label="1. npm 的相关配置记录的直接链接" title="1. npm 的相关配置记录的直接链接">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1-npm-的相关配置记录">1. npm 的相关配置记录<a href="#1-npm-的相关配置记录" class="hash-link" aria-label="1. npm 的相关��配置记录的直接链接" title="1. npm 的相关配置记录的直接链接">​</a></h2>
 <p>npm 配置淘宝源</p>
 <div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token function" style="color:rgb(0, 0, 255)">npm</span><span class="token plain"> config </span><span class="token builtin class-name" style="color:rgb(38, 127, 153)">set</span><span class="token plain"> registry https://registry.npm.taobao.org/</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>npm 获取当前的镜像配置</p>
@@ -95,7 +107,7 @@
             <content:encoded><![CDATA[<p>之前使用 vuepress 的时候，使用的评论系统是<a href="https://valine.js.org/" target="_blank" rel="noopener noreferrer">Valine</a>，可是匿名用户也能直接评论，虽说会过滤垃圾信息，但是后台查看评论与通知总感觉没有那么实在。</p>
 <p>然后换到了 docusaurus，并没有内置评论相关的，原本是打算自己写一个评论系统，MongoDB 存储评论数据相对方便些。然后这一拖就是拖到了过年前。。。无意间发现有一个插件<a href="https://gitalk.github.io/" target="_blank" rel="noopener noreferrer">Gitalk</a>，基于 Github Issue 的，而我平常又经常刷 github，加上需要 github 账号才能评论，所以就使用<a href="https://gitalk.github.io/" target="_blank" rel="noopener noreferrer">Gitalk</a> 来作为博客的评论（注：Gitalk 是基于 react 编写的）。</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="操作步骤">操作步骤<a href="#操作步骤" class="hash-link" aria-label="操作步骤的直接链接" title="操作步骤的直接链接">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1创建评��论仓库">1、创建评论仓库<a href="#1创建评论仓库" class="hash-link" aria-label="1、创建评论仓库的直接链接" title="1、创建评论仓库的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1创建评论仓库">1、创建评论仓库<a href="#1创建评论仓库" class="hash-link" aria-label="1、创建评论仓库的直接链接" title="1、创建评论仓库的直接链接">​</a></h3>
 <p>首先需要 github 账号，创建一个仓库用于存放评论，由于我的博客是同步上传到<a href="https://github.com/kuizuo/blog" target="_blank" rel="noopener noreferrer">github</a>上，所以就无需新建仓库</p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2开启-issues-功能">2、开启 issues 功能<a href="#2开启-issues-功能" class="hash-link" aria-label="2、开启 issues 功能的直接链接" title="2、开启 issues 功能的直接链接">​</a></h3>
 <p>默认开启，可在 Settings -&gt; Features -&gt; Issues 中设置</p>
