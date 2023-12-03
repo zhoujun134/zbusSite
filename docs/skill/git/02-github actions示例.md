@@ -1,7 +1,7 @@
 ---
 id: github-actions-example
 slug: github-actions-example
-title: github actions示例
+title: 02-github actions示例
 date: 2021-10-01
 author: zhouJun134
 tags: [github, action]

@@ -1,7 +1,7 @@
 ---
 id: git-common-command-used
 slug: git-common-command-used
-title: git 常用命令总结
+title: 05-git 常用命令总结
 date: 2023-12-04 00:09:39
 author: zhouJun134
 tags: [git]
