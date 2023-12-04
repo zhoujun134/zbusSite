@@ -147,7 +147,7 @@ function Name() {
                     e.currentTarget.style.setProperty('--positionY', `${bounding.y}px`)
                 }}
             >
-        <Translate id="homepage.hero.name">周君</Translate>
+        <Translate id="homepage.hero.name">快跑小火车</Translate>
       </span>
             <span className={styles.wave}>👋</span>
         </motion.div>
